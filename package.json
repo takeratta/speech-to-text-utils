@@ -27,7 +27,7 @@
     "merge": "^1.2.0",
     "object.pick": "^1.2.0",
     "preferences": "^0.2.1",
-    "watson-developer-cloud": "^2.14.4"
+    "watson-developer-cloud": "^4.0.1"
   },
   "scripts": {
     "test": "npm run lint && npm run mocha",
